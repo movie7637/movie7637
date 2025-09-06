@@ -1,1 +1,1 @@
-<h1 align="center">Hey! I'm Milena</h1>
+# Hey! <img src=./waving-hand.gif width=30px> I'm Milena
